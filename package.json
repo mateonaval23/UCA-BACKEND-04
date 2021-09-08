@@ -1,0 +1,19 @@
+{
+  "name": "clase04",
+  "version": "1.0.0",
+  "description": "Codigo de la clase 04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateonaval23/UCA-BACKEND-04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateonaval23/UCA-BACKEND-04/issues"
+  },
+  "homepage": "https://github.com/mateonaval23/UCA-BACKEND-04#readme"
+}
